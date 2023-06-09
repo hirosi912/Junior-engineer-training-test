@@ -16,8 +16,8 @@
 * 模組化(Service, Component)
 
 ## 驗收時間
-Regular: 4-5週
-Nice to have: 2-3週
+* Regular: 4-5週
+* Nice to have: 2-3週
 
 ## 驗收方式
 * 將專案push至個人training branch
