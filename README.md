@@ -10,10 +10,10 @@
 * PrimeNg
 * Ngrx
 
-## 進階需求
+## 進階需求(非必要)
 * 暫存系統目前畫面輸入與route狀態
 * 切換版面風格(theme style)
-> Change color / dark mode  
+> Change color / Dark mode  
 * 模組化(Service, Component)
 > 共用元件功能,如:連動選單,訊息視窗
 
