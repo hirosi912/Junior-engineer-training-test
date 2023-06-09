@@ -22,7 +22,7 @@
 * Nice to have: 2-3週
 
 ## 驗收方式
-* 將專案push至個人training branch
+* 將專案push至DevOps個人training branch
 * Live Demo與系統說明與報告(5~10 mins, 報告非必要)
 
 ## 備註
