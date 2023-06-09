@@ -10,7 +10,7 @@
 * PrimeNg
 * Ngrx
 
-## 進階需求(非必要)
+## 進階需求(加分項目)
 * 暫存系統目前畫面輸入與route狀態
 * 切換版面風格(theme style)
 > Change color / Dark mode  
