@@ -6,6 +6,11 @@
 * 依據
 * 
 
+# 環境工具
+* VS Code
+* Nodejs
+* Angular CLI
+
 ## 規格
 * Angular 15
 * PrimeNg
