@@ -25,7 +25,7 @@
 
 * 需有RWD功能
 
-* 機台 Api Link: (待討論) 
+* 機台 Api Link: (待討論) 可先自行建立local data
 
 ## 環境工具
 * VS Code
@@ -52,7 +52,7 @@
 
 ## 驗收方式
 * 將專案push至DevOps個人training branch
-* Live Demo與系統說明與報告(5~10 mins, 報告非必要)
+* Live Demo與系統說明或報告(5~10 mins, 報告非必要)
 
 ## 備註
 * 進階人員需達成進階需求
