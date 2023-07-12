@@ -23,19 +23,23 @@
   * 各項目需驗證資料正確性
   * 按下Submit按鈕後，跳出包含申請資訊的確認視窗
 
-
+* 使用angular router建立頁面切換
 
 * 機台 Api Link: (待討論) 可先自行建立local data
 
 ## 環境工具
 * VS Code
+  * Extensions: Angular Snippets 
 * Nodejs
 * Angular CLI
 
 ## 規格
 * Angular 15
+  * npx @angular/cli@15 new training-<your id> 
 * PrimeNg
+  * npm install primeng@15.0.0 
 * Ngrx
+  * 安裝對應Angular 15版本 
 
 ## 進階需求(進階人員)
 * RWD功能
