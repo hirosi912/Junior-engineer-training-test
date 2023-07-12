@@ -32,6 +32,7 @@
   * Extensions: Angular Snippets 
 * Nodejs
 * Angular CLI
+* Google Chrome Redux DevTools 
 
 ## 規格
 * Angular 15
